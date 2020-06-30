@@ -5,7 +5,7 @@ programa {
 		
 		
 	        para (inteiro i= 1; i <= 5; i++){
-	            escreva ("Você está desempregado? \n")
+	            escreva ("VocÃª estÃ¡ desempregado? \n")
 	            leia(desempregado)
 	        
 	                se(desempregado==verdadeiro){
